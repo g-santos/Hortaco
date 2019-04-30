@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1099241829934",
+    "firebase_url": "https://hortaco.firebaseio.com",
+    "project_id": "hortaco",
+    "storage_bucket": "hortaco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099241829934:android:2d96339a9de41401",
+        "android_client_info": {
+          "package_name": "hortaco.com.br.hortaco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099241829934-o73a1064qkmd56or76tgejthaqh709pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtdGce6GzoCqpTwAH2cXfTM7AMJPzGj_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099241829934-o73a1064qkmd56or76tgejthaqh709pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
